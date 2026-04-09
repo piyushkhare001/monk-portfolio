@@ -74,12 +74,12 @@ export default function Hero() {
                         {[
                             {
                                 icon: Computer,
-                                href: "https://github.com/piyushkhare",
+                                href: "https://github.com/piyushkhare001",
                                 label: "GitHub",
                             },
                             {
                                 icon: Link,
-                                href: "https://linkedin.com/in/piyushkhare",
+                                href: "https://www.linkedin.com/in/piyush-khare-7a351623b",
                                 label: "LinkedIn",
                             },
                             {
